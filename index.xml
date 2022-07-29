@@ -2,63 +2,63 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Rhys McQueen</title>
-    <link>https://rhysmcqueen.github.io/</link>
+    <link>https://web.rhysmcqueen.ca/</link>
     <description>Recent content on Rhys McQueen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Jul 2022 15:42:44 -0600</lastBuildDate><atom:link href="https://rhysmcqueen.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Jul 2022 15:42:44 -0600</lastBuildDate><atom:link href="https://web.rhysmcqueen.ca/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Experience</title>
-      <link>https://rhysmcqueen.github.io/post/past-co-ops/</link>
+      <link>https://web.rhysmcqueen.ca/post/past-co-ops/</link>
       <pubDate>Tue, 19 Jul 2022 15:42:44 -0600</pubDate>
       
-      <guid>https://rhysmcqueen.github.io/post/past-co-ops/</guid>
+      <guid>https://web.rhysmcqueen.ca/post/past-co-ops/</guid>
       <description>My Past Experiences In the past I have gotten the chance to work for multiple large companies. One being a Bank and another being a security software company. I have gotten the chance to use many different softwares and hardwares to fullfill my job.
 CIBC System Analyst In the role I was task with assisting and supporting the testing lab enviroment for CIBC. To do this I was tasked with the support of many items from racking and networking servers and workstations to the planning and implemntation of power and cooling managment.</description>
     </item>
     
     <item>
       <title>My HomeLab 2022</title>
-      <link>https://rhysmcqueen.github.io/post/homelab/</link>
+      <link>https://web.rhysmcqueen.ca/post/homelab/</link>
       <pubDate>Thu, 19 May 2022 15:42:44 -0600</pubDate>
       
-      <guid>https://rhysmcqueen.github.io/post/homelab/</guid>
+      <guid>https://web.rhysmcqueen.ca/post/homelab/</guid>
       <description>My HomeLab This is my homelab that I have built together to help learn new and fun technologys in the IT space. I have learned many technologies using this lab including  HA Hypervisors (Proxmox) Kubernetes, Docker Infrastructure as code (Terraform, Ansible) Reverse Proxies Power managment (2 x UPS&amp;rsquo;) Cable Managment Networking (Juniper 48P Poe 10gb Switch) IAAC  Details: I have my rack tucked away insite a closed in the basement.</description>
     </item>
     
     <item>
       <title>About Me</title>
-      <link>https://rhysmcqueen.github.io/aboutme/</link>
+      <link>https://web.rhysmcqueen.ca/aboutme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rhysmcqueen.github.io/aboutme/</guid>
+      <guid>https://web.rhysmcqueen.ca/aboutme/</guid>
       <description>aboutme</description>
     </item>
     
     <item>
       <title>How to contact me</title>
-      <link>https://rhysmcqueen.github.io/contact/</link>
+      <link>https://web.rhysmcqueen.ca/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rhysmcqueen.github.io/contact/</guid>
+      <guid>https://web.rhysmcqueen.ca/contact/</guid>
       <description>Contact Page</description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://rhysmcqueen.github.io/projects/</link>
+      <link>https://web.rhysmcqueen.ca/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rhysmcqueen.github.io/projects/</guid>
+      <guid>https://web.rhysmcqueen.ca/projects/</guid>
       <description>projects</description>
     </item>
     
     <item>
       <title>Rhys McQueen</title>
-      <link>https://rhysmcqueen.github.io/resume/</link>
+      <link>https://web.rhysmcqueen.ca/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rhysmcqueen.github.io/resume/</guid>
+      <guid>https://web.rhysmcqueen.ca/resume/</guid>
       <description>resume</description>
     </item>
     

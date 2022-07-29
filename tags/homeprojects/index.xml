@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>homeprojects on Rhys McQueen</title>
-    <link>https://rhysmcqueen.github.io/tags/homeprojects/</link>
+    <link>https://web.rhysmcqueen.ca/tags/homeprojects/</link>
     <description>Recent content in homeprojects on Rhys McQueen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 May 2022 15:42:44 -0600</lastBuildDate><atom:link href="https://rhysmcqueen.github.io/tags/homeprojects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 May 2022 15:42:44 -0600</lastBuildDate><atom:link href="https://web.rhysmcqueen.ca/tags/homeprojects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My HomeLab 2022</title>
-      <link>https://rhysmcqueen.github.io/post/homelab/</link>
+      <link>https://web.rhysmcqueen.ca/post/homelab/</link>
       <pubDate>Thu, 19 May 2022 15:42:44 -0600</pubDate>
       
-      <guid>https://rhysmcqueen.github.io/post/homelab/</guid>
+      <guid>https://web.rhysmcqueen.ca/post/homelab/</guid>
       <description>My HomeLab This is my homelab that I have built together to help learn new and fun technologys in the IT space. I have learned many technologies using this lab including  HA Hypervisors (Proxmox) Kubernetes, Docker Infrastructure as code (Terraform, Ansible) Reverse Proxies Power managment (2 x UPS&amp;rsquo;) Cable Managment Networking (Juniper 48P Poe 10gb Switch) IAAC  Details: I have my rack tucked away insite a closed in the basement.</description>
     </item>
     

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Rhys McQueen</title>
-    <link>https://rhysmcqueen.github.io/categories/</link>
+    <link>https://web.rhysmcqueen.ca/categories/</link>
     <description>Recent content in Categories on Rhys McQueen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Jul 2022 15:42:44 -0600</lastBuildDate><atom:link href="https://rhysmcqueen.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Jul 2022 15:42:44 -0600</lastBuildDate><atom:link href="https://web.rhysmcqueen.ca/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>tech</title>
-      <link>https://rhysmcqueen.github.io/categories/tech/</link>
+      <link>https://web.rhysmcqueen.ca/categories/tech/</link>
       <pubDate>Tue, 19 Jul 2022 15:42:44 -0600</pubDate>
       
-      <guid>https://rhysmcqueen.github.io/categories/tech/</guid>
+      <guid>https://web.rhysmcqueen.ca/categories/tech/</guid>
       <description></description>
     </item>
     
