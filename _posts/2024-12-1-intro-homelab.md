@@ -15,7 +15,7 @@ I grew to running cables throughout my house by drilling a 2 1/4'' coduit throug
 
 ![Burl-Homelab-1](/assets/2024-12-1-intro-homelab/burl-homelab-1.jpg){: w="300" h="100" }
 ![Burl-homelab-2](/assets/2024-12-1-intro-homelab/burl-homelab-2.jpg){: w="300" h="100" }
-![Burl-homelab-3](/assets/2024-12-1-intro-homelab/burl-homelab-3.png){: w="300" h="100" }
+![Burl-homelab-3](/assets/2024-12-1-intro-homelab/burl-homelab-3.png){: w="200" h="100" }
 
 ## HomeLab Growth
 After my Family moved to a new house I had to rethink the networking goals. I was now halfway through college and had a little more knowledge and goals for my homelab. I started with getting a fullsize rack and enclosing it inside a closet. I terminated all the ethernet and speaker wires that were ran throughout the house and bought some legitimet IT hardware. A 10+ year old Dell R710 Server and a Juniper EX3300-48p switch. This is how I learned alot! I overloaded that R710 with way too many vms and got into Hypervisors, NAS software and more and more. That workhorse of a host was only retired a few months ago in Sepetember (2024). That is a 15 year lifespan on that host from when it was released.
