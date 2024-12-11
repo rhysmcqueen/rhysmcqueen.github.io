@@ -1,7 +1,7 @@
 ---
 title: Homelab Introduction
 date: 2024-12-1 12:00:00 -700
-categories: [Infrastructure] # ,Networking,Hardware,SelfHost]
+#categories: [Infrastructure] # ,Networking,Hardware,SelfHost]
 #tags: [homelab,networking,selfhost]     # TAG names should always be lowercase
 ---
 
