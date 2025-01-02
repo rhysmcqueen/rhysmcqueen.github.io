@@ -45,10 +45,3 @@ Calgary-instance: 40.176.84.253
 Toronto-instance: 40.177.108.31
 Vancouver-instance: 40.176.122.242
 ```
-
-Tailscale Admin Console:
-![tailscale](/assets/2024-12-02-aws-multi-vpc/tailscale-Dashboard.png)
-As you can see it has already accepted the routes that the subnet router is creating. No manual configuration needed at any step!
-
-AWS Console:
-![tailscale](/assets/2024-12-02-aws-multi-vpc/aws-console.png)
