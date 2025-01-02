@@ -7,7 +7,7 @@ date: 2024-12-15 09:00:00 -0500
 ### Overview
 This project demonstrates the integration of AWS EC2 and Tailscale using Terraform and Bash scripting. It automates the deployment of VPCs, subnets, EC2 instances, and the setup of Tailscale for secure networking. The code also configures EC2 instances to display instance metadata and acts as Tailscale subnet routers.
 
-![Diagram](https://github.com/rhysmcqueen/Learning/blob/main/Software-Examples/Tailscale-Examples/Multi-site-tailnet/Diagrams/Multi_VPC_Diagram-tailscale.png)
+![Diagram](https://github.com/rhysmcqueen/Learning/blob/main/Software-Examples/Tailscale-Examples/Multi-site-tailnet/Diagrams/Multi_VPC_Diagram-tailscale.png?raw=true)
 ---
 
 ### Key Features
