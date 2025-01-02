@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tailscale for Dummies: A GUI for Learning ACLs"
-date: 2024-12-02 09:00:00 -0500
+date: 2024-12-23 09:00:00 -0500
 ---
 ![tailscale-for-dummies](/assets/Tailscale-for-dummies/Tailscale-for-dummies.png)
 ### Why I Built This Project
