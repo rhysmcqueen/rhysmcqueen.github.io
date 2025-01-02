@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Automating EC2 and Tailscale with Terraform"
-date: 2024-12-018 09:00:00 -0500
+date: 2024-12-15 09:00:00 -0500
 ---
 
 ### Overview
