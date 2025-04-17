@@ -2,7 +2,7 @@
 layout: post
 title: "Deploying a Monitoring Stack with Prometheus, Grafana, and Alertmanager"
 date: 2025-03-10 12:00:00 -0600
-tags: [ansible, prometheus, grafana, alertmanager, docker, monitoring]
+tags: 
 ---
 
 In my homelab, I use a Docker-based monitoring stack powered by Prometheus, Grafana, and Alertmanager. It's deployed and configured with Ansible, making it easy to replicate across environments.
